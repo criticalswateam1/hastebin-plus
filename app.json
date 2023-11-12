@@ -1,6 +1,6 @@
 {
-	"name": "Hastebin Plus",
-	"description": "Hastebin Plus is an open-source Pastebin software written in node.js.",
+	"name": "Paste | Developer Tech",
+	"description": "Paste and share your code easily.",
 	"repository": "https://github.com/MarvinMenzerath/HastebinPlus",
 	"logo": "https://raw.githubusercontent.com/MarvinMenzerath/HastebinPlus/master/static/favicon.png",
 	"keywords": [
